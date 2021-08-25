@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tdyoung6
+- 👋 Hi, I’m Tyler.
 - 👀 I’m interested in learning about Software Development.
-- 🌱 I’m currently learning C/C ++, Oracle, and SQL.
+- 🌱 I’m currently learning C/C ++, Oracle, and SQL. Trying to figure out computers... 
 - 📫 How to reach me tdyoung6@gmail.com
 
 <!---
